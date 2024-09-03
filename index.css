@@ -51,4 +51,17 @@
 #contact2:hover{
     background-color: pink; !important;
     color: white !important;
+    border-color: pink;
+}
+
+.iframe{
+        width: 100% !important;
+        height: 50vh !important;
+}
+
+#contact a{
+           color: rgb(220, 53, 69) !important;
+           font-size: 2rem !important;
+           font-weight: 600 !important;
+           text-align: center !important;
 }
