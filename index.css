@@ -1,0 +1,54 @@
+/*CSS RULESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+#home {
+    background-image: url(https://img.freepik.com/free-vector/pink-gradient-layer-patterned-background_53876-99010.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724371200&semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#nav {
+    background-color: rgb(220, 53, 69);
+}
+.uni{
+    color: rgb(220, 53, 69);
+}
+#navbarSupportedContent{
+    color: rgb(0, 136, 255);
+}
+#containebody{
+    background-color: rgb(255, 145, 0);
+}
+#base{
+    background-image: url(https://img.freepik.com/free-vector/pink-gradient-layer-patterned-background_53876-99010.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724371200&semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.footer{
+    background-color: rgb(220, 53, 69);
+}
+.btn{
+    border-color: pink;
+}
+
+#contact2:hover{
+    background-color: pink; !important;
+    color: white !important;
+}
